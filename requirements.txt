@@ -1,3 +1,10 @@
 pandas
 numpy
+pandas
+numpy
 scikit-learn
+xgboost
+shap
+matplotlib
+pyyaml
+
